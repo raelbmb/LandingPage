@@ -1,0 +1,33 @@
+body{
+    margin: 100px 40px 10px 40px ;
+}
+
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+p{
+    text-indent: 20px;
+}
+
+
+
+.tec img{
+    width: 150px;
+    margin: 40px;
+    
+    
+
+}
+
+.tec{
+    display: flex;
+    justify-content: center;
+}
+
+img#voltar{
+    width: 50px;
+    position: absolute;
+    top: 50px;
+}
